@@ -1,0 +1,6 @@
+.guides{
+&__image{
+    @include bgImage(500px,45%,"/SASS_PROJECT/images/image3.png");// image yolu verirken css dosyamızın konumuna göre tanımlıyoruz.
+
+}
+}
