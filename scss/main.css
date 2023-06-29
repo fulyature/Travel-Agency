@@ -290,7 +290,7 @@
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url("/images/image1.png");
+  background-image: url("../images/image1.png");
 }
 .home__form {
   width: 45%;

@@ -1,6 +1,6 @@
 .guides{
 &__image{
-    @include bgImage(500px,45%,"/images/image3.png");// image yolu verirken css dosyamızın konumuna göre tanımlıyoruz.
+    @include bgImage(500px,45%,"../images/image3.png");// image yolu verirken css dosyamızın konumuna göre tanımlıyoruz.
 
 }
 }
