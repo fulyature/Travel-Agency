@@ -4,7 +4,7 @@
     width: 90%;
     gap: 3rem;
     &__image{
-      @include bgImage(500px,45%,"/SASS_PROJECT/images/image2.png");// image yolu verirken css dosyamızın konumuna göre tanımlıyoruz.
+      @include bgImage(500px,45%,"/images/image2.png");// image yolu verirken css dosyamızın konumuna göre tanımlıyoruz.
     }
     &__text {
       width: 45%;

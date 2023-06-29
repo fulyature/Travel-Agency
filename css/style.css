@@ -72,7 +72,8 @@
 .header__links li {
   padding-right: 0.5rem;
 }
-.header__links--home, .header__links--disabled {
+.header__links--home,
+.header__links--disabled {
   color: #202336;
   border: none;
   background-color: #ffffff;
@@ -86,7 +87,8 @@
   color: #b8becd;
   font-weight: 400;
 }
-.header__links--login, .header__links--register {
+.header__links--login,
+.header__links--register {
   background-color: #ffffff;
   border: 1px solid #56b6e3;
   border-radius: 8px;
@@ -291,7 +293,7 @@
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url("/SASS_PROJECT/images/image1.png");
+  background-image: url("/images/image1.png");
 }
 .home__form {
   width: 45%;
@@ -367,7 +369,7 @@
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url("/SASS_PROJECT/images/image2.png");
+  background-image: url("/images/image2.png");
 }
 .about__text {
   width: 45%;
@@ -505,7 +507,7 @@
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url("/SASS_PROJECT/images/image3.png");
+  background-image: url("/images/image3.png");
 }
 
 body {

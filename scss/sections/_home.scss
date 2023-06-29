@@ -12,8 +12,8 @@
     // background-position: center center;
     // background-size: contain;
     // background-repeat: no-repeat;
-    // background-image: url(/SASS_PROJECT/images/image1.png);
-  @include bgImage(500px, 45%, "/SASS_PROJECT/images/image1.png");
+    // background-image: url(/images/image1.png);
+  @include bgImage(500px, 45%, "/images/image1.png");
         }
         &__form {
             width: 45%;
